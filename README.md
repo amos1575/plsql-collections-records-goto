@@ -58,20 +58,7 @@ This example demonstrates how to combine multiple PL/SQL data structures in a si
 4. **Output**
    - The program uses `DBMS_OUTPUT.PUT_LINE` to display results in the SQL Developer output window.
 
----
 
-## ▶️ How to Run the Program
 
-1. Open **Oracle SQL Developer**.
-2. Connect to your database (connection name: `class work`).
-3. Enable **DBMS Output**:
-   - Menu → View → DBMS Output → `+` → Select your connection → OK.
-4. Open the file `plsql_collections_records_goto.sql`.
-5. Click **Run Script (F5)** or press **F5**.
-6. View the output in the **DBMS Output** panel.
-
----
-
-## 🧩 Sample Output
 
 
